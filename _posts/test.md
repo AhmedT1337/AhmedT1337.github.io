@@ -12,6 +12,6 @@ tags: [lol]
 blahblahblahnlahlasjda;sdjjkl;sdfiotg
 
 ```c
-int d;
+int n;
 scanf("%d", &n);
 ```
